@@ -90,7 +90,20 @@ plt.title("Customer Segment")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+### 1.DATA.HEAD():
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679102/e2b320ba-eddc-4b24-b9a8-137b0d5fb879)
+### 2.DATA.INF0():
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679102/bbe672e5-6a96-43e5-af8a-57b4c7dad9ff)
+### 3.DATA.ISNULL().SUM():
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679102/2ec0bbe8-6117-4460-af94-a8bc2d05dade)
+### 4.PLOT USING ELBOW METHOD:
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679102/be4205cd-a07c-4706-89be-0e5439efde49)
+### 5.K-MEANS CLUSTERING:
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679102/d552057b-a291-47e9-8e86-4f054196bb22)
+### 6.Y_PRED ARRAY:
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679102/58c79684-99be-4a01-b36b-9116b40be739)
+### 7.CUSTOMER SEGMENT:
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118679102/87f25a8a-6b45-48ef-872c-8850b458c9a5)
 
 
 ## Result:
